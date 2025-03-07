@@ -88,3 +88,21 @@ button[type="submit"] {
 button[type="submit"]:hover {
     background-color: #0056b3; 
 }
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin: 2rem 0;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+
+.imagem img {
+    position: relative;
+    left: 40px;
+}
