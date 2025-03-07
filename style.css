@@ -11,7 +11,7 @@ body {
 }
 
 .navbar{
-    background-color: rgb(32, 33, 36);
+    background-color:blue;
     padding: 25px;
 }
 
@@ -32,8 +32,8 @@ body {
  }
 
  .rodape {
-    background-color: rgb(32, 33, 36);
-    color: white;
+    background-color:blue;
+    color:blue;
     text-align: center;
     padding: 1rem;
     margin-top: 2rem;
@@ -43,7 +43,7 @@ body {
 }
 
 form {
-    background-color: rgba(0, 0, 255, 0.3); 
+    background-color: blue; 
     padding: 20px;
     border-radius: 10px;
     width: 300px;
