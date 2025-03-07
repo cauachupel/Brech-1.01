@@ -11,7 +11,7 @@ body {
 }
 
 .navbar{
-    background-color: rgb(32, 33, 36);
+    background-color:blue;
     padding: 25px;
 }
 
@@ -32,8 +32,8 @@ body {
  }
 
  .rodape {
-    background-color: rgb(32, 33, 36);
-    color: white;
+    background-color:blue;
+    color:blue;
     text-align: center;
     padding: 1rem;
     margin-top: 2rem;
@@ -44,7 +44,7 @@ body {
 
 
 form {
-    background-color: rgba(51, 51, 51, 0.76); 
+    background-color: blue; 
     padding: 20px;
     border-radius: 10px;
     width: 300px;
@@ -88,4 +88,22 @@ button[type="submit"] {
 
 button[type="submit"]:hover {
     background-color: #0056b3; 
+}
+main {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+section {
+    margin: 2rem 0;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 8px;
+    
+}
+
+.imagem img {
+    position: relative;
+    left: 40px;
 }
